@@ -1,0 +1,10 @@
+Use case: educational illustration.
+Asset type: six-panel cat-training guide sheet for a beginner-friendly web app.
+Create one landscape image with a precise 3 columns by 2 rows grid, white background, generous gutters, six equally sized panels. Friendly polished hand-painted editorial illustration with crisp readable forms, warm ginger cat with white chest, calm trainer hands and a seated trainer as needed, muted teal and warm cream accents. Each panel shows one humane voluntary cat-training action. Small panel numbers in top left only: "1", "2", "3", "4", "5", "6". No other text or lettering.
+Panel 1 top left: a calm ginger cat standing naturally; one trainer hand holds a small teal clicker well away from the cat's ears, other hand offers one tiny food reward near cat mouth. Clear clicker and reward.
+Panel 2 top middle: same cat voluntarily touches its nose to a small target ball on a stick held at nose height; no poking or pushing.
+Panel 3 top right: same cat comfortably seated on the floor; trainer hand holds a tiny treat just above the nose and slightly back, gently guiding upward; absolutely no pushing the cat down.
+Panel 4 bottom left: same cat walking toward a relaxed seated trainer in a quiet indoor room, hand ready to reward, no leash.
+Panel 5 bottom middle: same cat voluntarily stepping onto a rectangular muted teal mat on the floor, trainer hand rewards close to mat.
+Panel 6 bottom right: same cat voluntarily entering a roomy OPEN pet carrier with front doorway fully unobstructed and door swung open; small food treat visible inside at the entrance; cat partially entering with rear feet still outside.
+Constraints: accurate feline anatomy, relaxed ears neutral/forward, no scared or restrained animals, no grabbing, no collars/leashes, no closed carrier, no arrows, no prose, no watermark. Show all six distinct actions clearly.
